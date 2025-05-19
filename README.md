@@ -1,5 +1,17 @@
 # 💫 About Me:
-Motivated and detail-oriented Machine Learning<br>and Deep Learning enthusiast with foundational<br>knowledge in data science and programming.<br>Passionate about leveraging data to drive<br>innovation and build impactful AI solutions. Adept<br>at learning quickly and working collaboratively in<br>dynamic environments. Engaged in continuous<br>learning and practical exploration of machine<br>learning and deep learning concepts. Seeking<br>opportunities to grow professionally and apply my<br>expertise to meaningful challenges in machine<br>learning and data science.
+Hello , I'm Hayk.
+Motivated and detail-oriented Machine Learning
+and Deep Learning enthusiast with foundational
+knowledge in data science and programming.
+Passionate about leveraging data to drive
+innovation and build impactful AI solutions. Adept
+at learning quickly and working collaboratively in
+dynamic environments. Engaged in continuous
+learning and practical exploration of machine
+learning and deep learning concepts. Seeking
+opportunities to grow professionally and apply my
+expertise to meaningful challenges in machine
+learning and data science.
 
 
 ## 🌐 Socials:
