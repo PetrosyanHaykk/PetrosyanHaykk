@@ -1,17 +1,13 @@
 # 💫 About Me:
 Hello , I'm Hayk.
-Motivated and detail-oriented Machine Learning
-and Deep Learning enthusiast with foundational
-knowledge in data science and programming.
-Passionate about leveraging data to drive
-innovation and build impactful AI solutions. Adept
-at learning quickly and working collaboratively in
-dynamic environments. Engaged in continuous
-learning and practical exploration of machine
-learning and deep learning concepts. Seeking
-opportunities to grow professionally and apply my
-expertise to meaningful challenges in machine
-learning and data science.
+Python developer specializing in Machine Learning
+algorithms and deep learning implementations. Focused
+on building core Al systems through methodical
+development of ML models and data analysis pipelines.
+Technical skills include neural network architecture,
+predictive modeling, and statistical analysis. Committed
+to implementing scalable while maintaining current with
+advancements in artificial intelligence and data science.
 
 
 ## 🌐 Socials:
